@@ -19,3 +19,6 @@ In folder `/.claude/skills/web-developer`
 ```
 $npx claude-spend
 ```
+
+## More Agent Skills
+* https://github.com/addyosmani/agent-skills
