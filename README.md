@@ -1,6 +1,10 @@
 # Develop Web application 
 
+## Setup `CLAUDE.md`
+* https://github.com/multica-ai/andrej-karpathy-skills/blob/main/CLAUDE.md
+
 ## Create ``web-developer`` skill
+In folder `/.claude/skills/web-developer`
 ```
 /create-skill web-developer
 ```
