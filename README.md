@@ -9,3 +9,9 @@
 ```
 /web-developer develop add slip that use spec from  @requirements/feature_1_add_slip.md and use html template from @requirements/feature_1_ui.html 
 ```
+
+
+## Monitor token usage
+```
+$npx claude-spend
+```
